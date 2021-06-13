@@ -290,3 +290,11 @@ void decryptVigenere(char *path)
 ```
 
 ### Screenshot
+question 1 before :
+![alt text](https://github.com/russkiymalchik/soal-shift-sisop-modul-4-I06-2021/blob/main/soalmodul4/soal%201%20before.jpg)
+question 1 after :
+![alt text](https://github.com/russkiymalchik/soal-shift-sisop-modul-4-I06-2021/blob/main/soalmodul4/soal%201%20after.jpg)
+question 2 after
+![alt text](https://github.com/russkiymalchik/soal-shift-sisop-modul-4-I06-2021/blob/main/soalmodul4/soal%202%20after.jpg)
+
+the question 4 already included in screenshot question 1 and 2
