@@ -17,8 +17,8 @@
 #include <time.h>
 
 static const char *dirPath = "/home/asusry/Downloads";
-// gcc -Wall `pkg-config fuse --cflags` SinSeiFS_C05.c -o SinSeiFS_C05 `pkg-config fuse --libs`
-// ./SinSeiFS_C05  prak4/
+// gcc -Wall `pkg-config fuse --cflags` SinSeiFS_[I06].c -o SinSeiFS_[I06] `pkg-config fuse --libs`
+// ./SinSeiFS_[I06]  prak4/
 // fusermount -u prak4/
 
 char *key = "SISOP";
